@@ -11,7 +11,7 @@ public class AssertDemo {
 
 		String actual = "Java";
 
-		String expected = "Online";
+		String expected = "Automation";
 
 		// Hard Assert
 		Assert.assertEquals(actual, expected);
